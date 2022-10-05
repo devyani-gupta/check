@@ -4,3 +4,4 @@ pandas
 Pillow
 requests==2.26.0
 scikit_learn
+streamlit
